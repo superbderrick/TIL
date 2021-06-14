@@ -1,0 +1,2 @@
+- 0614
+- company works for Amazon IAP
