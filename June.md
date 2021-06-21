@@ -6,3 +6,6 @@
 
 - 0616
 - company works and basic unity touch events
+
+- 0620
+- company works and basic unity actions
