@@ -3,3 +3,7 @@
 
 07.13 
 - Checked a Facebook API
+
+07.14
+
+- android resolver
